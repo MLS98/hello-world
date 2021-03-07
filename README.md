@@ -1,4 +1,4 @@
 # hello-world
 First one
-\alpha
+$\alpha$
 
